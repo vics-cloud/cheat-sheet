@@ -1,4 +1,3 @@
-vics
-
-Formátování kódu HTML a CSS.md
-Metatagy HTML.md
+Cheat-sheet kódu HTML a CSS js
+files .md
+/// vics
